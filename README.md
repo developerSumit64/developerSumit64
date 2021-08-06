@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi Guys 👋
 
 
 <p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=developerSumit64&show_icons=true&theme=tokyonight&line_height=48" />
-   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSumit64&count_private=false&theme=tokyonight">
+   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSumit64&count_private=true&theme=tokyonight">
 
 </p>
 
